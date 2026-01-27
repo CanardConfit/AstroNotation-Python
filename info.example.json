@@ -1,0 +1,16 @@
+{
+  "OBJECT": "M42",
+  "RA": 83.822,
+  "DEC": -5.391,
+  "EXPTIME": 60,
+  "STACKCNT": 120,
+  "FOCALLEN": 500,
+  "INSTRUME": "ASI2600MC + Askar FRA400 + reducer 0.7x / f3.9",
+  "GAIN": 100,
+  "DATE-OBS": "2026-01-27T22:15:03",
+  "SITELAT": 46.233,
+  "SITELONG": 6.055,
+  "padding": 30,
+  "inter_line": 18,
+  "font_size": 80
+}

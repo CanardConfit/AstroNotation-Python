@@ -264,3 +264,8 @@ pyrightconfig.json
 # End of https://www.toptal.com/developers/gitignore/api/pycharm+all,python
 
 headers.json
+*.json
+venv
+!*.example.json
+**/.DS_Store
+*.jpg
